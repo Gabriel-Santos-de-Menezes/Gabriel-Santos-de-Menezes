@@ -9,7 +9,7 @@ Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domí
 - PHP
 - MySql
 - JavaScript
--React
+- React
 
 ### :pushpin: Projetos
 - [Instagram Clone](https://github.com/Gabriel-Santos-de-Menezes/instagram_clone)
