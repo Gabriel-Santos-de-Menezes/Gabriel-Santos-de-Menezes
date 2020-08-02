@@ -2,7 +2,7 @@
 Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domínio é o PHP, porém buscando conhecimentos em React e Node. 
 <hr>
 
-### :computer: Técnologias 
+### :computer: Tecnologias 
 - HTML5
 - CSS
 - Bootstrap
