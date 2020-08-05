@@ -1,5 +1,9 @@
 ### Hi 👋
 Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domínio é o PHP, porém buscando conhecimentos em React e Node. 
+<br><br>
+[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel&color=0077b5&style=flat&logo=linkedin&link=https://www.linkedin.com/in/gabriel-s-127857138/)](https://www.linkedin.com/in/gabriel-s-127857138/)
+[![Twitter Badge](https://img.shields.io/static/v1?label=Twitter&message=Gabriel&color=0077b5&style=flat&logo=twitter&link=https://twitter.com/Gabriel_SMZ_)](https://twitter.com/Gabriel_SMZ_)
+
 <hr>
 
 ### :computer: Tecnologias 
