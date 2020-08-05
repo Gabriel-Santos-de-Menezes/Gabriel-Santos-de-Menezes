@@ -18,7 +18,7 @@ Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domí
 ### :pushpin: Projetos
 - [Instagram Clone](https://github.com/Gabriel-Santos-de-Menezes/instagram_clone)
 - [Twitter Clone](https://github.com/Gabriel-Santos-de-Menezes/tweeter-clone)
-- [GAFLIX](https://github.com/Gabriel-Santos-de-Menezes/gaflix)
+- [InvestFlix](https://github.com/Gabriel-Santos-de-Menezes/gaflix)
 
 <!--
 **Gabriel-Santos-de-Menezes/Gabriel-Santos-de-Menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
