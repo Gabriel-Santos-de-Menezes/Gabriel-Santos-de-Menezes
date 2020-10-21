@@ -1,10 +1,26 @@
-### Hi 👋
-Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domínio é o PHP, porém buscando conhecimentos em React e Node. 
-<br><br>
-[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel&color=0077b5&style=flat&logo=linkedin&link=https://www.linkedin.com/in/gabriel-s-127857138/)](https://www.linkedin.com/in/gabriel-s-127857138/)
-[![Twitter Badge](https://img.shields.io/static/v1?label=Twitter&message=Gabriel&color=0077b5&style=flat&logo=twitter&link=https://twitter.com/Gabriel_SMZ_)](https://twitter.com/Gabriel_SMZ_)
+<p align="center">
+  <img src="https://github.com/Gabriel-Santos-de-Menezes/Gabriel-Santos-de-Menezes/blob/master/Capagit.png" />,
+</p>
 
-<hr>
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santos-de-Menezes&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Santos-de-Menezes&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
+  
+### Sejam Bem Vindos :) 👋
+<hr/>
+<p align="justify">Sou desenolvedor web, atualmente minha linguagem de domínio é o PHP, usando a arquitetura MVC. Também estou bscando conhecimentos em React.js e Node.js, além de conehcer um pouco de design com Figma e microserviços</p>
+
+<p align="justify">❤️Amo codar e sempre busco conhecer novas tecnologias </p>
+
+<p align="center">⚠️Aberto para novas oportunidades </p>
+
+<hr/>
 
 ### :computer: Tecnologias 
 - HTML5
@@ -14,11 +30,26 @@ Eu sou Gabriel Santos, sou desenolvedor web, atualmente minha linguagem de domí
 - MySql
 - JavaScript
 - React
+- Metodologia Scrum
+
+</hr>
 
 ### :pushpin: Projetos
 - [Instagram Clone](https://github.com/Gabriel-Santos-de-Menezes/instagram_clone)
 - [Twitter Clone](https://github.com/Gabriel-Santos-de-Menezes/tweeter-clone)
 - [InvestFlix](https://github.com/Gabriel-Santos-de-Menezes/gaflix)
+- [Happy](https://github.com/Gabriel-Santos-de-Menezes/Happy-NLW3)
+
+<hr/>
+
+### 💬 Contato
+
+
+  [![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel&color=0077b5&style=flat&logo=linkedin&link=https://www.linkedin.com/in/gabriel-s-127857138/)](https://www.linkedin.com/in/gabriel-s-127857138/)
+  [![Twitter Badge](https://img.shields.io/static/v1?label=Twitter&message=Gabriel&color=0077b5&style=flat&logo=twitter&link=https://twitter.com/Gabriel_SMZ_)](https://twitter.com/Gabriel_SMZ_)
+ 
+
+
 
 <!--
 **Gabriel-Santos-de-Menezes/Gabriel-Santos-de-Menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
