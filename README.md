@@ -14,23 +14,23 @@
   
 ### Sejam Bem Vindos :) 👋
 <hr/>
-<p align="justify">Sou desenolvedor web, atualmente minha linguagem de domínio é o PHP, usando a arquitetura MVC. Também estou bscando conhecimentos em React.js e Node.js, além de conehcer um pouco de design com Figma e microserviços</p>
+<p align="justify">Sou desenolvedor mobile utilizando React Native </p>
 
 <p align="justify">❤️Amo codar e sempre busco conhecer novas tecnologias </p>
 
-<p align="center">⚠️Aberto para novas oportunidades </p>
 
 <hr/>
 
 ### :computer: Tecnologias 
-- HTML5
+- JavaScript
+- React
+- React Native
+- Metodologia Scrum
 - CSS
 - Bootstrap
 - PHP
 - MySql
-- JavaScript
-- React
-- Metodologia Scrum
+
 
 </hr>
 
