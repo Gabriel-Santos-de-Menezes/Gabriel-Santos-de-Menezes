@@ -28,7 +28,6 @@
 - Metodologia Scrum
 - CSS
 - Bootstrap
-- PHP
 - MySql
 
 
