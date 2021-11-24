@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Gabriel-Santos-de-Menezes/Gabriel-Santos-de-Menezes/blob/master/Capagit.png" />,
-</p>
-
 
 <center>
 <table>
@@ -14,21 +10,31 @@
   
 ### Sejam Bem Vindos :) 👋
 <hr/>
-<p align="justify">Sou desenolvedor mobile utilizando React Native </p>
+<p align="justify">Sou desenolvedor mobile utilizando React Native e se aventurando no desenvolvimento web com Angular</p>
 
-<p align="justify">❤️Amo codar e sempre busco conhecer novas tecnologias </p>
+<p align="justify">❤️Amo codar, conhecer novas tecnologias e encarar novos desafios.</p>
 
 
 <hr/>
 
 ### :computer: Tecnologias 
-- JavaScript
-- React
-- React Native
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  - <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  - <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+  - <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+- Se aventurando com Angular
+  - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+- <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 - Metodologia Scrum
-- CSS
-- Bootstrap
-- MySql
+### :computer: OS
+- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whitee" /> 
+
+### :hammer: IDEs
+- <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" /> 
+- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 
 
 </hr>
