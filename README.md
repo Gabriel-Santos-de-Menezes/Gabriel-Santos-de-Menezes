@@ -36,15 +36,6 @@
 - <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" /> 
 - <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 
-
-</hr>
-
-### :pushpin: Projetos
-- [Instagram Clone](https://github.com/Gabriel-Santos-de-Menezes/instagram_clone)
-- [Twitter Clone](https://github.com/Gabriel-Santos-de-Menezes/tweeter-clone)
-- [InvestFlix](https://github.com/Gabriel-Santos-de-Menezes/gaflix)
-- [Happy](https://github.com/Gabriel-Santos-de-Menezes/Happy-NLW3)
-
 <hr/>
 
 ### 💬 Contato
